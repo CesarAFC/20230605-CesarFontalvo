@@ -1,0 +1,1016 @@
+   20  git stash pop
+   21  git add .
+   22  git add . 
+   23  git commit -m "Detalle estudiante"
+   24  docker compose up
+   25  git add . 
+   26  git commit -m "useSessionStorage"
+   27  git push
+   28  docker compose up
+   29  docker compose down
+   30  docker compose up
+   31  docker compose down
+   32  docker compose up
+   33  docker compose down
+   34  docker compose up
+   35  docker compose down
+   36  git init
+   37  git add README.md
+   38  git commit -m "first commit"
+   39  git add .
+   40  git commit -m "first commit"
+   41  git branch -M main
+   42  git remote add origin git@github.com:CesarAFC/batatabit.git
+   43  git push -u origin main
+   44  npm start
+   45  npm start
+   46  npm start
+   47  pnpm create vite
+   48  cd react-rutas-mircha
+   49  pnpm install
+   50  pnpm run dev
+   51  pnpm install
+   52  pnpm install react-router
+   53  pnpm run dev
+   54  pnpm install react-router-dom
+   55  pnpm run dev
+   56  pnpm run dev
+   57  docker compose up
+   58  ls
+   59  cd app_x
+   60  ls
+   61  docker compose up
+   62  docker compose down
+   63  git add .
+   64  git commit -m "Cambios de seccion storage"
+   65  git push 
+   66  git pull
+   67  docker compose up
+   68  docker compose up
+   69  docker compose down
+   70  docker compose up
+   71  docker compose down
+   72  git add .
+   73  git commit -m "Mensajes: Enviar mensajes y ver en pantalla" 
+   74  git push
+   75  docker compose up
+   76  docker compose up
+   77  docker compose down
+   78  docker compose up
+   79  docker compose down
+   80  docker compose up
+   81  docker compose up
+   82  docker compose down
+   83  docker compose up
+   84  git add .
+   85  git commit -m "mensajes modistas y layout"
+   86  git push
+   87  docker compose up
+   88  docker compose down
+   89  docker compose up
+   90  docker compose down
+   91  docker compose up
+   92  docker compose down
+   93  docker compose up
+   94  docker compose up
+   95  docker compose down
+   96  docker compose up
+   97  docker compose up
+   98  docker compose down
+   99  git add
+  100  gid add .
+  101  git add .
+  102  git commit -m "Llamado para mostrar modistas"
+  103  git push
+  104  docker compose up
+  105  docker compose down
+  106  ls
+  107  cd app_x
+  108  ls
+  109  cd app_y
+  110  ls
+  111  pnpm run dev
+  112  pnpm install
+  113  pnpm run dev
+  114  pnpm install @mui/material @emotion/react @emotion/styled\n
+  115  pnpm run dev
+  116  git pull
+  117  docker compose up
+  118  docker compose down
+  119  ls
+  120  docker compose up
+  121  docker compose down
+  122  docker compose up
+  123  docker compose down
+  124  git push 
+  125  git add .
+  126  git commit -m "login en nextjs"
+  127  git push
+  128  git pull 
+  129  docker compose up
+  130  docker compose up
+  131  docker compose down
+  132  docker compose up
+  133  docker compose down
+  134  git add .
+  135  git commit -m "Mostrar mensajes de modistas en Perfil.jsx"
+  136  git push 
+  137  docker compose up
+  138  docker compose down
+  139  git add .
+  140  git commit -m "ErrorBoundary" 
+  141  git pull
+  142  git push
+  143  docker compose up
+  144  docker compose down
+  145  git add .
+  146  git commit -m "input para buscar estudiantes en Profile.jsx" 
+  147  git push
+  148  docker compose up
+  149  docker compose down
+  150  git add .
+  151  git commit -m "Show error Message in ErrorBoundary"
+  152  git pull
+  153  docker compose up
+  154  pnpm add prop-types
+  155  docker compose up
+  156  ls
+  157  cd app_x
+  158  pnpm add prop-types
+  159  docker compose up
+  160  docker compose up --build --force-recreate
+  161  docker compose down
+  162  docker compose up
+  163  docker compose down
+  164  git add . 
+  165  git commit -m "undefined en inputStudentSearch.jsx"
+  166  git push
+  167  ls
+  168  ls
+  169  cd ../
+  170  ls
+  171  cd Mentor
+  172  ls
+  173  cd app_x
+  174  ls
+  175  docker compose up
+  176  docker compose up
+  177  pnpm run dev
+  178  pnpm run dev
+  179  pnpm install react-hook-form
+  180  pnpm run dev
+  181  pnpm install @hookform/resolvers yup
+  182  pnpm run dev
+  183  ls
+  184  cd app_x
+  185  ls
+  186  docker compose up
+  187  ls
+  188  cd app_y
+  189  ls
+  190  pnpm run dev
+  191  docker compose up
+  192  docker compose down
+  193  docker compose up
+  194  docker compose up
+  195  ls
+  196  docker compose up
+  197  docker compose up --build --force-recreate
+  198  docker compose down
+  199  docker compose up
+  200  docker compose up
+  201  docker compose up
+  202  docker compose down
+  203  docker compose up
+  204  docker compose up
+  205  docker compose down
+  206  docker compose up
+  207  git add . 
+  208  git commit -m "useMemo in handleSearch"
+  209  git push 
+  210  ls
+  211  cd app_x
+  212  ls
+  213  cd app_x
+  214  ls
+  215  pnpm i react-query
+  216  npm i react-query\n
+  217  pnpm i react-query\n
+  218  ls
+  219  clear
+  220  docker compose up
+  221  docker compose up
+  222  docker compose up --build --force-recreate
+  223  docker compose down
+  224  git add .
+  225  git commit -m "Add react-query"
+  226  git push
+  227  docker compose up
+  228  docker compose up
+  229  docker compose down
+  230  git add .
+  231  git commit -m "first stage migrating to react query"
+  232  git push
+  233  git log
+  234  docker compose up
+  235  docker compose up
+  236  docker compose up
+  237  docker compose up --build --force-recreate
+  238  docker compose up
+  239  docker compose up
+  240  docker compose up --build --force-recreate
+  241  git add .
+  242  git commit -m "cambiando a useQueries"
+  243  git push
+  244  docker compose up
+  245  git add .
+  246  git commit -m "useQueries funcionando" 
+  247  git push
+  248  docker compose up
+  249  docker compose up
+  250  docker compose down
+  251  pnpm start
+  252  git add. 
+  253  git add .
+  254  git commit -m "New readme"
+  255  git push
+  256  git add .
+  257  git commit -m "Formatting readme"
+  258  git push
+  259  git add . 
+  260  git commit -m "More format to readme"
+  261  git push
+  262  cd React-practico
+  263  ls
+  264  cd react-task-application
+  265  ls
+  266  git add .
+  267  git commit -m "New readme file"
+  268  git push
+  269   git push --set-upstream origin master
+  270  git add .
+  271  git commit -m "format readme"
+  272  git push
+  273  cd Curso\ Mobile\ First
+  274  ls
+  275  git add .
+  276  git commit -m "Readme file added" 
+  277  git push
+  278  git add .
+  279  git commit -m "link added to the readme file"
+  280  git push
+  281  git init
+  282  git add .
+  283  git commit -m "New Portfolio"
+  284  git branch -M main
+  285  git remote add origin git@github.com:CesarAFC/myportfolio.git
+  286  git push -u origin main
+  287  git add . 
+  288  git commit -m "New skills screen"
+  289  git add .
+  290  git commit -m "Adding skills"
+  291  git push
+  292  git add .
+  293  git commit -m "Portfolio word changed"
+  294  git push
+  295  git ad .
+  296  git add .
+  297  git commit -m "new cv download option"
+  298  git push
+  299  git add . 
+  300  git commit -m "New CV"
+  301  git push
+  302  git add .
+  303  git add .
+  304  git commit -m "Image portfolio skills changed"
+  305  git push
+  306  git add .
+  307  git commit -m "New images for portfolio"
+  308  git push
+  309  git add .
+  310  git commit -m "Images portfolio fixed" 
+  311  git push
+  312  git add .
+  313  git commit -m "new changes"
+  314  git push
+  315  pnpm create vite
+  316  cd context-mode
+  317  pnpm install
+  318  git remote add origin git@github.com:CesarAFC/context-darkmode.git
+  319  git init
+  320  git remote add origin git@github.com:CesarAFC/context-darkmode.git
+  321  git branch -M main
+  322  git push -u origin main
+  323  git push
+  324  git push -u origin main
+  325  git remote add origin git@github.com:CesarAFC/context-darkmode.git
+  326  git branch -M main
+  327  git push -u origin main
+  328  git branch -b
+  329  git branch
+  330  git branch -b
+  331  git add .
+  332  git commit -m "First commit" 
+  333  git push 
+  334  git push -u origin main
+  335  git add .
+  336  git commit -m "adding readme file"
+  337  git push
+  338  pnpm run dev
+  339  pnpm install -D tailwindcss postcss autoprefixer
+  340  npx tailwindcss init -p
+  341  pnpm run dev
+  342  pnpm uninstall tailwindcss
+  343  pnpm uninstall autoprefixer
+  344  pnpm uninstall postcss
+  345  pnpm install
+  346  pnpm run dev
+  347  pnpm run dev
+  348  git add .
+  349  git commit -m "App finalizada sin context"
+  350  git push
+  351  pnpm run dev
+  352  git add .
+  353  git commit -m "New app using context"
+  354  git push
+  355  pnpm install @mui/material @emotion/react @emotion/styled\n
+  356  pnpm run dev
+  357  git add .
+  358  git commit -m "Fin context"
+  359  git push 
+  360  pnpm run dev
+  361  cd app_x
+  362  ls
+  363  docker compose up
+  364  docker compose down
+  365  pnpm run dev
+  366  pnpm install @mui/icons-material
+  367  pnpm run dev
+  368  git add .
+  369  git commit -m "adding material ui and card component"
+  370  git push 
+  371  pnpm run dev
+  372  git add .
+  373  git commit -m "Finishing the cart"
+  374  git push
+  375  git status
+  376  git add .
+  377  git commit -m "Before reducer"
+  378  git push
+  379  npm run fake-api
+  380  npm start
+  381  git add .
+  382  git commit -m "useReducer example in crud api"
+  383  git push
+  384  pnpm run dev
+  385  pnpm create vite
+  386  cd redux-mircha
+  387  pnpm install
+  388  pnpm install redux react-redux redux-devtools
+  389  pnpm run dev
+  390  pnpm run dev
+  391  ls
+  392  cd context-mode
+  393  pnpm run dev
+  394  ls
+  395  npm run fake-api
+  396  npm run fake-api
+  397  pnpm install redux react-redux redux-devtools
+  398  pnpm install redux react-redux redux-devtools
+  399  pnpm install redux
+  400  pnpm install react-redux
+  401  pnpm run dev
+  402  ls
+  403  ls
+  404  pnpm run dev
+  405  npm start
+  406  pnpm run dev
+  407  pnpm run dev
+  408  git add .
+  409  git init 
+  410  git commit -m "excercies about redux"
+  411  git add . 
+  412  git commit -m "first commit"
+  413  git remote add origin git@github.com:CesarAFC/redux-exercises.git
+  414  git push -u -f origin main
+  415  git push
+  416  git push 
+  417  git push --set-upstream origin master
+  418  git merge 
+  419  git branch 
+  420  git branch
+  421  git merge main
+  422  git merge master
+  423  git push
+  424  git remote add origin git@github.com:CesarAFC/redux-ex.git\n
+  425  git remote add origin git@github.com:CesarAFC/redux-ex.git\n
+  426  git remote set-url origin git@github.com:CesarAFC/redux-ex.git\n
+  427  git git branch -M main
+  428  git branch -M main
+  429  git push -u origin main
+  430  git add .
+  431  git commit -m "adding readme"
+  432  git add README.md
+  433  ls
+  434  git add .
+  435  git commit -m "adding readme"
+  436  git push
+  437  pnpm run dev
+  438  pnpm install @mui/material @emotion/react @emotion/styled\n
+  439  pnpm run dev
+  440  pnpm install @mui/icons-material\n
+  441  pnpm run dev
+  442  git add .
+  443  git commit -m "new shoppingCart con redux" 
+  444  git push
+  445  git add .
+  446  git commit 
+  447  git add .
+  448  ls
+  449  cd redux-mircha
+  450  ls
+  451  git add .
+  452  git commit -, "ultimos cambios"
+  453  git commit -m "ultimos cambios"
+  454  git push
+  455  pnpm create vite
+  456  cd redux-mine
+  457  pnpm install
+  458  pnpm run dev
+  459  pnpm install redux
+  460  pnpm install react-redux
+  461  git init
+  462  git add .
+  463  git commit -m "first commit" 
+  464  pnpm run dev
+  465  pnpm install @mui/material @emotion/react @emotion/styled
+  466  pnpm run dev
+  467  git init
+  468  git add .
+  469  git commit -m "first commit" 
+  470  git remote add origin git@github.com:CesarAFC/google-clone.git
+  471  git branch -M main
+  472  git push -u origin main
+  473  git add .
+  474  git commit -m "Adding readme" 
+  475  git push
+  476  git init
+  477  git add .
+  478  git commit -m "first commit" 
+  479  git remote add origin git@github.com:CesarAFC/wiki-clone.git
+  480  git branch -M main
+  481  git push -u origin main
+  482  git add .
+  483  git commit -m "adding readme" 
+  484  git push 
+  485  git add .
+  486  git commit -m "change index name" 
+  487  git push
+  488  pnpm run dev
+  489  pnpm install react-query
+  490  pnpm run dev
+  491  git add .
+  492  git commit -m "swap to use redux"
+  493  git push
+  494  git remote add origin git@github.com:CesarAFC/movies-redux.git
+  495  git branch -M main
+  496  git push -u origin main
+  497  pnpm run dev
+  498  pnpm install react-router-dom
+  499  pnpm run dev
+  500  git add .
+  501  git commit -m "movie details"
+  502  git push
+  503  pnpm run dev
+  504  git add .
+  505  ls
+  506  cd app_x
+  507  git add .
+  508  git comit -m "last change?"
+  509  git commit -m "last change?"
+  510  git push
+  511  pnpm run dev
+  512  pnpm run dev
+  513  pnpm install  @mui/icons-material
+  514  pnpm run dev
+  515  pnpm run dev
+  516  pnpm run dev
+  517  pnpm run dev
+  518  git add .
+  519  git commit -m "swap to react query"
+  520  git push 
+  521  pnpm run dev
+  522  git add . 
+  523  git commit -m "Adding a validation to movie providers and readme"
+  524  git push
+  525  ls
+  526  git add .
+  527  git commit -m "adding readme" 
+  528  git push 
+  529  git add .
+  530  git commit -m "adding more porjects" 
+  531  git push 
+  532  npm start
+  533  docker compose up
+  534  ls
+  535  cd app_x
+  536  docker compose up
+  537  docker compose down
+  538  git add .
+  539  git commit -m "adding format to readme"
+  540  git push
+  541  pnpm run dev
+  542  pnpm run dev
+  543  pnpm run dev
+  544  pnpm run dev
+  545  pnpm run dev
+  546  pnpm run dev
+  547  git add .
+  548  git commit -m "show resuls" 
+  549  git push 
+  550  pnpm run dev
+  551  pnpm run dev
+  552  git add .
+  553  git commit -m "Skeletons" 
+  554  git push
+  555  pnpm run dev
+  556  pnpm run dev
+  557  pnpm run dev
+  558  git add .
+  559  git commit -m "pages folder created and error boundary applied"
+  560  git push
+  561  git add .
+  562  git commit -m "readme"
+  563  git push
+  564  pnpm run dev
+  565  pnpm run dev
+  566  git add .
+  567  git commit -m "Upcoming changes" 
+  568  git push
+  569  pnpm run dev
+  570  git add .
+  571  git commit -m "Start rating component and theme"
+  572  git push
+  573  pnpm run dev
+  574  pnpm run dev
+  575  pnpm run dev
+  576  pnpm run dev
+  577  pnpm run dev
+  578  git add .
+  579  git commit -m "add to favorites and remove" 
+  580  git push 
+  581  pnpm run dev
+  582  pnpm run dev
+  583  git add .
+  584  git commit -m "HOC page component and credits" 
+  585  git push 
+  586  pnpm run dev
+  587  pnpm run dev
+  588  ls
+  589  cd redux-mircha
+  590  pnpm run dev
+  591  git add .
+  592  git commit -m "New app added"
+  593  git push
+  594  git add .
+  595  git commit -m "images changes" 
+  596  git push
+  597  pnpm install gh-pages --save-dev
+  598  pnpm run build
+  599  pnpm run build
+  600  pnpm run build
+  601  pnpm run deploy
+  602  git add .
+  603  git commit -m "deployment and react-router changes" 
+  604  git push
+  605  pnpm run dev
+  606  pnpm run dev
+  607  pnpm install  @splidejs/splide
+  608  npm uninstall @splidejs/splide  --save-dev
+  609  pnpm uninstall @splidejs/splide  --save-dev
+  610  pnpm install @splidejs/react-splide
+  611  pnpm run dev
+  612  pnpm install redux-persist
+  613  pnpm run dev
+  614  pnpm run dev
+  615  pnpm run dev
+  616  git add .
+  617  git commit -m "adding persist" 
+  618  pnpm run build
+  619  pnpm run deploy
+  620  pnpm run dev
+  621  pnpm run dev
+  622  git add .
+  623  git commit -m "Changing routes config"
+  624  git push
+  625  pnpm run build
+  626  pnpm run deploy
+  627  pnpm run dev
+  628  git add .
+  629  git commit -m "New responsive splide"
+  630  git push
+  631  pnpm run dev
+  632  git add .
+  633  git commit -m "change movies app link" 
+  634  git push
+  635  pnpm run dev
+  636  pnpm run dev
+  637  git add .
+  638  git commit -m "Change to hash router" 
+  639  git push
+  640  pnpm run build 
+  641  pnpm run deploy
+  642  pnpm run dev
+  643  git add .
+  644  git commit -m "responsive and noimage for similarMovies"
+  645  git push
+  646  pnpm run dev
+  647  git add .
+  648  git commit -m "minus changes" 
+  649  git push
+  650  pnpm run build
+  651  pnpm run deploy
+  652  pnpm run dev
+  653  pnpm run dev
+  654  git add .
+  655  git commit -m "Fixing the similar movies slide issue, onclick did not work" 
+  656  git push
+  657  pnpm run build
+  658  pnpm run deploy 
+  659  pnpm run deploy 
+  660  pnpm run dev
+  661  pnpm run dev
+  662  git add . 
+  663  git commit -m "changing some styles"
+  664  git push
+  665  pnpm run build
+  666  pnpm run deploy
+  667  git add .
+  668  git add .
+  669  ls
+  670  cd redux-mine
+  671  ls
+  672  git add .
+  673  git commit -m "Last update" 
+  674  git push
+  675  pnpm run dev
+  676  git add .
+  677  git commit -m "scroll to top added" 
+  678  git push
+  679  pnpm run build
+  680  pnpm run deploy
+  681  pnpm run dev
+  682  pnpm create vite
+  683  cd react-rtk-crud
+  684  pnpm install
+  685  pnpm run dev
+  686  pnpm install @reduxjs/toolkit react-redux
+  687  pnpm run dev
+  688  pnpm install uuid
+  689  pnpm run dev
+  690  ls
+  691  cd react-rtk-crud
+  692  ls
+  693  pnpm run dev
+  694  git add .
+  695  git commit -m "mas cambios al style" 
+  696  git push 
+  697  pnpm run dev
+  698  pnpm run dev
+  699  pnpm run dev
+  700  pnpm add  @mui/icons-material @mui/material @emotion/styled @emotion/react\n
+  701  pnpm run dev
+  702  pnpm run dev
+  703  pwd
+  704  ls
+  705  cd Desktop
+  706  pwd
+  707  mkdir informes
+  708  cd informes
+  709  touch informeAnual.xls
+  710  ls
+  711  cd ..
+  712  pwd
+  713  mkdir auditoria
+  714  touch auditoria.xls
+  715  touch reporteConsolidado.xls
+  716  ls
+  717  ls
+  718  mv auditoria.xls /auditoria
+  719  mv auditoria.xls
+  720  mv auditoria.xls auditoria
+  721  cd auditoria
+  722  ls
+  723  ls -R
+  724  ls
+  725  cd Documents
+  726  ls
+  727  cd Proyectos
+  728  ls
+  729  cd React/
+  730  ls
+  731  pnpm create vite
+  732  pnpm add zustand
+  733  pnpm run dev
+  734  git init 
+  735  git add .
+  736  git commit -m "First commit" 
+  737  git remote add origin git@github.com:CesarAFC/zustand-first.git
+  738  git branch -M main
+  739  git push -u origin main
+  740  pnpm run dev
+  741  pnpm add @tanstack/react-query
+  742  pnpm run dev
+  743  pnpm add axios
+  744  pnpm run dev
+  745  git init
+  746  git add . 
+  747  git commit -m "first commit" 
+  748  git log
+  749  git log index.html
+  750  git status
+  751  git config 
+  752  git log --oneline
+  753  node --version
+  754  npm --version
+  755  pnpm --version
+  756  pnpm install typescript -g
+  757  npm i typescript -g
+  758  typescript --version
+  759  pnpm add typescript -D
+  760  typescript --version
+  761  git --v
+  762  git --version
+  763  git --version
+  764  ls
+  765  cd Desktop
+  766  ls
+  767  ../
+  768  cd ../
+  769  ls
+  770  cd Doc
+  771  cd Documents
+  772  ls
+  773  cd Proyectos
+  774  ls
+  775  cd DigitalHouse
+  776  ls
+  777  cd informatica
+  778  ls
+  779  cd Mochila_Fontalvo_Cesar
+  780  ls
+  781  cd Entrega1
+  782  ls
+  783  touch Readme.md
+  784  cd ../
+  785  ls
+  786  ls
+  787  cd Entrega2
+  788  touch Readme.md
+  789  cd ../
+  790  cd Entrega3
+  791  touch Readme.md
+  792  cd ../
+  793  ls
+  794  cd Entrega4
+  795  touch Readme.md
+  796  cd ../
+  797  cd Entrega5
+  798  touch Readme.md
+  799  cd ../
+  800  ls
+  801  cd Git-Github
+  802  touch Readme.md
+  803  ls
+  804  cd ../
+  805  ls
+  806  git init
+  807  git remote add origin git@github.com:CesarAFC/Mochila_Fontalvo_Cesar.git
+  808  git branch -M main
+  809  git push -u origin main
+  810  git add .
+  811  git commit -m "first commit"
+  812  git push -u origin main
+  813  git branch trabajo_github
+  814  git log --oneline
+  815  git branch
+  816  git checkout trabajo_github
+  817  git branch
+  818  node --version
+  819  pnpm --version
+  820  npm install -g typescript
+  821  tsc -v
+  822  tsc --version
+  823  npx tsc --version
+  824  pnpm rm -g typescript
+  825  pnpm root -g
+  826  pnpm setup
+  827  npm root -g
+  828  npm uninstall -g typescript
+  829  npm install -g typescript
+  830  sudo chown -R `whoami` ~/.npm
+  831  sudo chown -R `whoami` /usr/local/lib/node_modules
+  832  npm install -g typescript
+  833  tsc --version
+  834  sudo npm install -g typescript
+  835  tsc --version
+  836  tsc --version
+  837  tsc --version
+  838  tsc --version
+  839  tsc --version
+  840  tsc --version
+  841  tsc --version
+  842  tsc module01
+  843  tsc module01.ts
+  844  tsc
+  845  tsc
+  846  tsc
+  847  tsc
+  848  tsc
+  849  tsc
+  850  git clone https://github.com/MicrosoftDocs/mslearn-typescript
+  851  cd mslearn-typescript/code/module-02/m02-start
+  852  tsc
+  853  tsc
+  854  ls
+  855  cd ..
+  856  ls
+  857  cd ..
+  858  cd ..
+  859  cd ..
+  860  ls
+  861  tsc
+  862  ls
+  863  cd mslearn-typescript/code/module-03/m03-start
+  864  tsc 
+  865  tsc 
+  866  cd ..
+  867  cd ..
+  868  ls
+  869  cd ..
+  870  cd ..
+  871  ls
+  872  tsc
+  873  ls
+  874  cd src
+  875  tsc
+  876  tsc module2.ts
+  877  ls
+  878  pnpm create vite
+  879  cd react-typescript-todo
+  880  pnpm install
+  881  pnpm run dev
+  882  pnpm add bootswatch
+  883  pnpm run dev
+  884  pnpm add react-icons
+  885  pnpm run dev
+  886  ls
+  887  cd Documents
+  888  ls
+  889  cd Proyectos
+  890  ls
+  891  cd DigitalHouse
+  892  ls
+  893  cd informatica
+  894  ls
+  895  cd simulacro
+  896  ls
+  897  mkdir Actividades
+  898  cd Actividades
+  899  ls
+  900  mkdir "Deportes de equipo" "Deportes acuaticos" "Deportes extremos" "Deportes de mesa" "Deportes mentales"
+  901  ls
+  902  cd Deportes\ de\ equipo
+  903  touch Basquet
+  904  cd ..
+  905  cd Deportes\ de\ mesa
+  906  touch Ajedrez.txt
+  907  cd ..
+  908  cd Deportes\ de\ mesa
+  909  touch Ping\ Pong/
+  910  touch Ping\ Pong
+  911  ls
+  912  mv Ajedrez.txt "Deportes mentales" 
+  913  cd ..
+  914  ls
+  915  cd Deportes\ mentales
+  916  ls
+  917  cd ..
+  918  ls
+  919  cd Deportes\ de\ mesa
+  920  ls
+  921  mv "Deportes mentales" Ajedrez.txt
+  922  mv Ajedrez.txt ../Deportes\ mentales
+  923  cd ..
+  924  ls -R
+  925  rm -r Deportes\ extremos
+  926  pwd
+  927  git init 
+  928  git remote add origin git@github.com:CesarAFC/simulacro-informatica.git\ngit branch -M main\ngit push -u origin main
+  929  git remote add origin git@github.com:CesarAFC/simulacro-informatica.git\ngit branch -M main\ngit push -u origin main
+  930  git remote add origin git@github.com:CesarAFC/simulacro-informatica.git
+  931  git branch -M main
+  932  git push -u origin main
+  933  git puch
+  934  git push
+  935  git branch
+  936  git push -u origin main
+  937  git add .
+  938  git commit -m "simulacro" 
+  939  git push -u origin main
+  940  history 20
+  941  ls
+  942  cd Deportes\ acuaticos
+  943  touch comands.txt
+  944  ls
+  945  history > comands.txt
+  946  ls
+  947  cd Documents
+  948  cd Proyectos
+  949  cd DigitalHouse
+  950  cd informatica
+  951  ls
+  952  cd simulacro
+  953  ls
+  954  cd Actividades
+  955  ls
+  956  cd Deportes\ acuaticos
+  957  ls
+  958  history 20 > comands.txt
+  959  git add .
+  960  git commit -m "commands"
+  961  git push
+  962  pnpm create vite
+  963  cd primera-prueba-react-midu
+  964  pnpm add @vitejs/plugin-react -E
+  965  pnpm add react react-dom
+  966  pnpm run dev
+  967  pnpm run dev
+  968  pnpm add standard -D
+  969  pnpm run dev
+  970  ls
+  971  git init
+  972  git add .
+  973  git commit -m "prueba tecnica"
+  974  git remote add origin git@github.com:CesarAFC/prueba-tecnica-mid.git\ngit branch -M main\ngit push -u origin main
+  975  pnpm run dev
+  976  pnpm run dev
+  977  git add .
+  978  git commit -m "custom hoooks" 
+  979  git push
+  980  ls
+  981  ls -r
+  982  ls -R
+  983  ls
+  984  cd Documents
+  985  ls
+  986  cd Proyectos
+  987  ls
+  988  ls
+  989  cd Digi
+  990  cd DigitalHouse
+  991  cd informatica
+  992  ls
+  993  cd simulacro
+  994  ls
+  995  cd Actividades
+  996  ls
+  997  touch Deportes\ de\ mesa/mine.txt
+  998  ls
+  999  cd Deportes\ de\ mesa
+ 1000  ls
+ 1001  ls
+ 1002  git init
+ 1003  git remote add origin git@github.com:CesarAFC/20230605-CesarFontalvo.git
+ 1004  git branch -M main
+ 1005  touch comandos.txt main.js index.html
+ 1006  git add .
+ 1007  git commit -m "commit 01 de cesarFontalvo"
+ 1008  git push -u origin main
+ 1009  git branch feature
+ 1010  git branch
+ 1011  git checkout feature
+ 1012  mkdir Hardware Software SeguridadInformatica
+ 1013  ls
+ 1014  touch Hardware/resumen.txt
+ 1015  touch Software/resumen.txt
+ 1016  touch SeguridadInformatica/resumen.txt
+ 1017  git add .
+ 1018  git commit -m "commit 02 de cesarFontalvo"
+ 1019  git push
+ 1020  git push origin feature
+ 1021  git checkout main
+ 1022  git branch
+ 1023  ls
+ 1024  mv main.js resumenHardware.txt
+ 1025  git branch
+ 1026  mv index.html resumenSoftware.txt
+ 1027  echo "Microsoft Word" >> resumenSoftware.txt
+ 1028  echo "VS Code" >> resumenSoftware.txt
+ 1029  echo "Zoom" >> resumenSoftware.txt
+ 1030  history 10
+ 1031  history -a
+ 1032  history -a > comandos.txt
+ 1033  history 20 -a > comandos.txt
+ 1034  history 20 > comandos.txt
+ 1035  history -a > comandos.txt
